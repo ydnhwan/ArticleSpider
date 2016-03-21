@@ -1,0 +1,6 @@
+c:\users\ydnh\documents\visual studio 2013\Projects\ArticleSpider\ArticleSpider\bin\Debug\ArticleSpider.exe.config
+c:\users\ydnh\documents\visual studio 2013\Projects\ArticleSpider\ArticleSpider\obj\Debug\ArticleSpider.csprojResolveAssemblyReference.cache
+c:\users\ydnh\documents\visual studio 2013\Projects\ArticleSpider\ArticleSpider\bin\Debug\ArticleSpider.exe
+c:\users\ydnh\documents\visual studio 2013\Projects\ArticleSpider\ArticleSpider\bin\Debug\ArticleSpider.pdb
+c:\users\ydnh\documents\visual studio 2013\Projects\ArticleSpider\ArticleSpider\obj\Debug\ArticleSpider.exe
+c:\users\ydnh\documents\visual studio 2013\Projects\ArticleSpider\ArticleSpider\obj\Debug\ArticleSpider.pdb
